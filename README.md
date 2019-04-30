@@ -13,10 +13,6 @@ Collision detection using X number of balls as input objects (can be scaled up o
 * **Ryan Murphy** - [Github99er](https://github.com/Github99er)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
