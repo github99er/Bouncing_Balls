@@ -16,7 +16,3 @@ Collision detection using X number of balls as input objects (can be scaled up o
 * **Ryan Murphy** - [Github99er](https://github.com/Github99er)
 
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-
