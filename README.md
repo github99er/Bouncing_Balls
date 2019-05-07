@@ -7,6 +7,9 @@ Collision detection using X number of balls as input objects (can be scaled up o
 * [ReactJS](https://reactjs.org/) - Library
 * [Konva](https://github.com/konvajs/react-konva) - Dependency Dispaly (Canvas)
 
+## Example
+![](balls_gify1_2.gif)
+![](balls_gify2.gif)
 
 ## Authors
 
