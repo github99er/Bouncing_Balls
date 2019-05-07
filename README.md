@@ -10,6 +10,7 @@ Collision detection using X number of balls as input objects (can be scaled up o
 ## Example
 ![](balls_gify1_2.gif)
 ![](balls_gify2.gif)
+![](balls_gify1.gif)
 
 ## Authors
 
