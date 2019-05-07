@@ -15,4 +15,10 @@ Collision detection using X number of balls as input objects (can be scaled up o
 
 * **Ryan Murphy** - [Github99er](https://github.com/Github99er)
 
+## Acknowledgements
+
+- Error Boundary Component
+https://reactjs.org/docs/error-boundaries.html
+https://codepen.io/gaearon/pen/wqvxGa?editors=0010
+
 
