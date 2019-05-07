@@ -17,8 +17,8 @@ Collision detection using X number of balls as input objects (can be scaled up o
 
 ## Acknowledgements
 
-- Error Boundary Component
-https://reactjs.org/docs/error-boundaries.html
-https://codepen.io/gaearon/pen/wqvxGa?editors=0010
+Error Boundary Component
+- https://reactjs.org/docs/error-boundaries.html
+- https://codepen.io/gaearon/pen/wqvxGa?editors=0010
 
 
